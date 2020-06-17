@@ -6,3 +6,7 @@
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
 
+.border-testimonial {
+  border-radius: 50%;
+}
+
